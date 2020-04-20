@@ -1,1 +1,2 @@
 # PracticaGit
+/*Hacer grafica*/
