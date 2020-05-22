@@ -1,12 +1,11 @@
 # PracticaGit
 /*Hacer grafica*/
 
-
 ```mermaid
 gitGraph:
 options
 {
-    "nodeSpacing": 150,
+    "nodeSpacing": 50,
     "nodeRadius": 10
 }
 end
@@ -15,6 +14,8 @@ branch master
 branch develop
 checkout develop
 commit
+commit
+checkout master
 branch feature 
 checkout feature
 commit
@@ -34,5 +35,5 @@ checkout master
 merge realse
 comit chekout develop
 comit 
-merge realse
-```             
+merge release
+```   
